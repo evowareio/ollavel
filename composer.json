@@ -1,5 +1,5 @@
 {
-    "name": "evoware/ollama-php",
+    "name": "sitebooster/ollama-php",
     "description": "A PHP library for interacting with local Ollama server.",
     "type": "library",
     "license": "GPL-3.0-or-later",
