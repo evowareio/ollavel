@@ -3,8 +3,8 @@
 namespace Evoware\OllamaPHP\Repositories;
 
 use GuzzleHttp\ClientInterface;
-use Evoware\OllamaPHP\Traits\ValidatesFields;
-use Evoware\OllamaPHP\Traits\MakesHttpRequests;
+use Evoware\OllamaPHP\traits_temp\ValidatesFields;
+use Evoware\OllamaPHP\traits_temp\MakesHttpRequests;
 use Evoware\OllamaPHP\Models\ModelFile;
 use Evoware\OllamaPHP\DataObjects\Model;
 

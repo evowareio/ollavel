@@ -4,8 +4,8 @@ namespace Evoware\OllamaPHP;
 
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Client;
-use Evoware\OllamaPHP\Traits\ValidatesFields;
-use Evoware\OllamaPHP\Traits\MakesHttpRequests;
+use Evoware\OllamaPHP\traits_temp\ValidatesFields;
+use Evoware\OllamaPHP\traits_temp\MakesHttpRequests;
 use Evoware\OllamaPHP\Responses\EmbeddingResponse;
 use Evoware\OllamaPHP\Responses\CompletionResponse;
 use Evoware\OllamaPHP\Responses\ChatCompletionResponse;
